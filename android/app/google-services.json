@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "940710387561",
+    "project_id": "crudtutorial-567fe",
+    "storage_bucket": "crudtutorial-567fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940710387561:android:83f8f85174be19c33de7f8",
+        "android_client_info": {
+          "package_name": "com.example.crudtutorial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM2Bxo8fj839Sx-49rjq3ftdCKJCPuCTI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940710387561:android:7a292b992fb6107b3de7f8",
+        "android_client_info": {
+          "package_name": "com.example.socialmedia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM2Bxo8fj839Sx-49rjq3ftdCKJCPuCTI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
